@@ -5,308 +5,244 @@
 		// two entries: an across entry and a down entry
 		var puzzleData = [
 			 	{
-					clue: "What you’d like to do to the fiat system",
-					answer: "escape",
+					clue: "Church leader and school of fish",
+					answer: "polycarp",
 					position: 1,
 					orientation: "across",
-					startx: 2,
+					startx: 1,
 					starty: 1
 				},
 			 	{
-					clue: "Resident of Australia",
-					answer: "emu",
+					clue: "Means of learning and hitting the doorbell twice",
+					answer: "reading",
 					position: 7,
 					orientation: "across",
-					startx: 1,
+					startx: 6,
 					starty: 2
 				},
 				{
-					clue: "Sly signal",
-					answer: "wink",
-					position: 8,
-					orientation: "across",
-					startx: 5,
-					starty: 2
-				},
-				{
-					clue: "A tender cut, this one will be hard for Brits",
-					answer: "filet",
+					clue: "Type of nightclub and the hat of an Uber competitor",
+					answer: "cabaret",
 					position: 9,
 					orientation: "across",
-					startx: 3,
+					startx: 4,
 					starty: 3
 				},
 				{
-					clue: "Too violent for me, rated M",
-					answer: "gta",
-					position: 9.5,
-					orientation: "across",	
-					startx: 9,
-					starty: 3
-				},
-				{
-					clue: "A title of increased controversy",
-					answer: "her",
+					clue: "one version of your favorite layer two and the idea that what has been will continue to be",
+					answer: "lnd",
 					position: 11,
 					orientation: "across",
-					startx: 2,
-					starty: 5
-				},
-				{
-					clue: "Don’t do this with the seed phrase if you beat the crossword",
-					answer: "hock",
-					position: 13,
-					orientation: "across",
-					startx: 8,
-					starty: 5
-				},
-				{
-					clue: "You did this to your draft card",
-					answer: "tore",
-					position: 14,
-					orientation: "across",
 					startx: 1,
-					starty: 6
-				},
-				{
-					clue: "My ear likes to hear one, my ear also has one",
-					answer: "drum",
-					position: 15,
-					orientation: "across",
-					startx: 6,
-					starty: 6
-				},
-				{
-					clue: "GOAT but better",
-					answer: "og",
-					position: 15.5,
-					orientation: "across",
-					startx: 1,
-					starty: 7
-				},
-				{
-					clue: "heart of the castle",
-					answer: "keep",
-					position: 16,
-					orientation: "across",
-					startx: 3,
-					starty: 8
-				},
-				{
-					clue: "part of both the S&P 500 and military industrial complex",
-					answer: "ge",
-					position: 18,
-					orientation: "across",
-					startx: 1,
-					starty: 9
-				},
-				{
-					clue: "result of impact",
-					answer: "crater",
-					position: 20,
-					orientation: "across",
-					startx: 4,
-					starty: 9
-				},
-				{
-					clue: "The ibis and the wolverine both work for one of these",
-					answer: "um",
-					position: 22,
-					orientation: "across",
-					startx: 1,
-					starty: 10
-				},
-				{
-					clue: "product of destructive distillation",
-					answer: "tar",
-					position: 23,
-					orientation: "across",
-					startx: 4,
-					starty: 10
-				},
-				{
-					clue: "one of twenty-four, and it’s not a word in your seed phrase",
-					answer: "rib",
-					position: 24,
-					orientation: "across",
-					startx: 8,
-					starty: 10
-				},
-				{
-					clue: "out to sea!",
-					answer: "ebb",
-					position: 25,
-					orientation: "across",
-					startx: 1,
-					starty: 11
-				},
-				{
-					clue: "many PSAs about this in the 90s",
-					answer: "std",
-					position: 26,
-					orientation: "across",
-					startx: 5,
-					starty: 11
-				},
-				{
-					clue: "as the fed is to debasement, these folks can be to research",
-					answer: "faculty",
-					position: 29,
-					orientation: "across",
-					startx: 5,
-					starty: 13
-				},
-				{
-					clue: "southern 'delicacy'",
-					answer: "okra",
-					position: 30,
-					orientation: "across",
-					startx: 1,
-					starty: 14
-				},
-				{
-					clue: "one of 43’s nicknames inverted and spelled out",
-					answer: "em",
-					position: 1,
-					orientation: "down",
-					startx: 2,
-					starty: 1
-				},
-				{
-					clue: "what I can’t do with fools",
-					answer: "suffer",
-					position: 2,
-					orientation: "down",
-					startx: 3,
-					starty: 1
-				},
-				{
-					clue: "don’t confuse us with ice-picks",
-					answer: "awls",
-					position: 3,
-					orientation: "down",
-					startx: 5,
-					starty: 1
-				},
-				{
-					clue: "the food, not the number",
-					answer: "pie",
-					position: 4,
-					orientation: "down",
-					startx: 6,
-					starty: 1
-				},
-				{
-					clue: "hippies might hug me",
-					answer: "ent",
-					position: 5,
-					orientation: "down",
-					startx: 7,
-					starty: 1
-				},
-				{
-					clue: "what brings us all together on stacker news",
-					answer: "stacking",
-					position: 6,
-					orientation: "down",
-					startx: 11,
-					starty: 1
-				},
-				{
-					clue: "the doctor who told me that my tinnitus was permanent",
-					answer: "ent",
-					position: 7,
-					orientation: "down",
-					startx: 1,
-					starty: 2
-				},
-				{
-					clue: "an mp3 of this should play for every zap",
-					answer: "thunder",
-					position: 10,
-					orientation: "down",
-					startx: 8,
 					starty: 4
 				},
 				{
-					clue: "another name for motorcycle",
-					answer: "hog",
-					position: 11,
-					orientation: "down",
-					startx: 2,
-					starty: 5
+					clue: "more isolated and an ever more isolated English king",
+					answer: "lonelier",
+					position: 13,
+					orientation: "across",
+					startx: 5,
+					starty: 4
 				},
 				{
-					clue: "what the IRS does to my taxes when I try to pay in bitcoin",
-					answer: "reject",
-					position: 12,
-					orientation: "down",
-					startx: 4,
-					starty: 5
-				},
-				{
-					clue: "silent sound",
-					answer: "om",
-					position: 13.5,
-					orientation: "down",
-					startx: 9,
-					starty: 5
-				},
-				{
-					clue: "the only thing my mouth and shoe share in common",
-					answer: "tongue",
+					clue: "moved faster on foot and an exclamation upon seeing the dino king",
+					answer: "outran",
 					position: 14,
-					orientation: "down",
+					orientation: "across",
+					startx: 3,
+					starty: 5
+				},
+				{
+					clue: "procedure to conjoin statements and that last word",
+					answer: "and",
+					position: 15,
+					orientation: "across",
 					startx: 1,
 					starty: 6
 				},
 				{
-					clue: "if you say this verb slowly enough, it sounds like something you might say while admiring a Picasso",
-					answer: "depart",
-					position: 15,
-					orientation: "down",
-					startx: 6,
+					clue: "a type of protein and you're just not going to get this one, do it last",
+					answer: "relt",
+					position: 16,
+					orientation: "across",
+					startx: 5,
 					starty: 6
 				},
 				{
-					clue: "Bitcoiners are sometimes into a philosophy that refers to these as turnings",
-					answer: "eras",
+					clue: "mind power and album by Miles",
+					answer: "esp",
 					position: 17,
-					orientation: "down",
-					startx: 5,
+					orientation: "across",
+					startx: 10,
+					starty: 6
+				},
+				{
+					clue: "moral obligation and excrament",
+					answer: "duty",
+					position: 19,
+					orientation: "across",
+					startx: 4,
+					starty: 7
+				},
+				{
+					clue: "you don't want to give me this and the heart of the leader of the CCP",
+					answer: "inch",
+					position: 20,
+					orientation: "across",
+					startx: 9,
+					starty: 7
+				},
+				{
+					clue: "popular car and before you and me",
+					answer: "prius",
+					position: 21,
+					orientation: "across",
+					startx: 3,
 					starty: 8
 				},
 				{
-					clue: "synonym of 15 down but much more dramatic",
-					answer: "embark",
-					position: 19,
-					orientation: "down",
-					startx: 2,
+					clue: "SOL on sitting space and that which inspires lament",
+					answer: "sro",
+					position: 22,
+					orientation: "across",
+					startx: 10,
+					starty: 8
+				},
+				{
+					clue: "having to do with the universe and wearing a costume to look Irish",
+					answer: "cosmic",
+					position: 23,
+					orientation: "across",
+					startx: 3,
 					starty: 9
 				},
 				{
-					clue: "world’s most popular epitaph",
-					answer: "rip",
-					position: 21,
-					orientation: "down",
+					clue: "the center of it all and the old man",
+					answer: "hub",
+					position: 24,
+					orientation: "across",
+					startx: 10,
+					starty: 9
+				},
+				{
+					clue: "sound my car makes and sound I make when my car makes other sounds",
+					answer: "hmm",
+					position: 25,
+					orientation: "across",
+					startx: 3,
+					starty: 10
+				},
+				{
+					clue: "the Mrs. and a couple of polinators",
+					answer: "bibi",
+					position: 26,
+					orientation: "across",
 					startx: 9,
-					starty: 9
+					starty: 10
 				},
 				{
-					clue: "get out of the way!",
-					answer: "duck",
+					clue: "your favorite nurse on a bad day and a bird's home coupled with an examination",
+					answer: "anesthetist",
 					position: 27,
+					orientation: "across",
+					startx: 1,
+					starty: 12
+				},
+				{
+					clue: "legislature and an average expression of grief",
+					answer: "parliament",
+					position: 1,
+					orientation: "down",
+					startx: 1,
+					starty: 1
+				},
+				{
+					clue: "a home for trees and a pirate's declaration of intent to dine on a wild animal",
+					answer: "arboretum",
+					position: 2,
+					orientation: "down",
+					startx: 6,
+					starty: 1
+				},
+				{
+					clue: "another attempt to break down a topic and an Irish women's backstreet sibling",
+					answer: "reanalysis",
+					position: 3,
 					orientation: "down",
 					startx: 7,
-					starty: 11
+					starty: 1
 				},
 				{
-					clue: "the toy that taught me my first physics lessons",
-					answer: "yoyo",
-					position: 28,
+					clue: "guardian an average tree person",
+					answer: "parent",
+					position: 4,
+					orientation: "down",
+					startx: 8,
+					starty: 1
+				},
+				{
+					clue: "memberships to municipalities and the calming boats thereof",
+					answer: "citizenships",
+					position: 5,
+					orientation: "down",
+					startx: 10,
+					starty: 1
+				},
+				{
+					clue: "desire to avoid the crowd and justaposing agriculture with soup and a lighter",
+					answer: "agoraphobic",
+					position: 6,
+					orientation: "down",
+					startx: 12,
+					starty: 1
+				},
+				{
+					clue: "computer company and that's all you get on this one",
+					answer: "del",
+					position: 8,
+					orientation: "down",
+					startx: 9,
+					starty: 2
+				},
+				{
+					clue: "most bitcoiners don't believe in it and every completely correct doctrine",
+					answer: "altruism",
+					position: 10,
+					orientation: "down",
+					startx: 5,
+					starty: 3
+				},
+				{
+					clue: "MIC spender and nickname I gave Garfield's buddy",
+					answer: "dod",
+					position: 12,
+					orientation: "down",
+					startx: 3,
+					starty: 4
+				},
+				{
+					clue: "never wanted by Tender, Loving, Care and a sacred dung beetle",
+					answer: "scrub",
+					position: 18,
 					orientation: "down",
 					startx: 11,
-					starty: 11
+					starty: 6
+				},
+				{
+					clue: "olfactory delicacies and one Italian donkey",
+					answer: "aromas",
+					position: 19,
+					orientation: "down",
+					startx: 4,
+					starty: 7
+				},
+				{
+					clue: "popular sweepstakes and a fruit from Georgia",
+					answer: "pch",
+					position: 21,
+					orientation: "down",
+					startx: 3,
+					starty: 8
 				},
 			] 
 	

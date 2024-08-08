@@ -206,3 +206,8 @@ button:hover {
 .onesat {
   white-space: nowrap;
 }
+
+.title {
+  font-size: medium;
+  color: #999;
+}
