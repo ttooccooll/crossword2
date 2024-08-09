@@ -153,7 +153,7 @@ a {
   text-decoration: none;
 }
 
-@media (max-width: 1090px) {
+@media (max-width: 1190px) {
     body {
         display: flex;
         flex-direction: column;
@@ -189,6 +189,10 @@ a {
         align-items: space-around;
         justify-content: space-around;
     }
+    .phone {
+      margin-left: 10%;
+      font-size: smaller
+    }
 }
 
 button {
@@ -210,4 +214,8 @@ button:hover {
 .title {
   font-size: medium;
   color: #999;
+}
+
+.lastweek {
+  color: #5c8001;
 }
