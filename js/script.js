@@ -173,7 +173,7 @@
 					starty: 1
 				},
 				{
-					clue: "guardian an average tree person",
+					clue: "guardian and an average tree person",
 					answer: "parent",
 					position: 4,
 					orientation: "down",
