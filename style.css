@@ -191,7 +191,6 @@ a {
     }
     .phone {
       margin-left: 10%;
-      font-size: smaller
     }
 }
 
@@ -218,4 +217,5 @@ button:hover {
 
 .lastweek {
   color: #5c8001;
+  white-space: nowrap;
 }
