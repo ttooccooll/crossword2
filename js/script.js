@@ -5,7 +5,7 @@
 		// two entries: an across entry and a down entry
 		var puzzleData = [
 			 	{
-					clue: "Church leader and school of fish",
+					clue: "church leader and school of fish",
 					answer: "polycarp",
 					position: 1,
 					orientation: "across",
@@ -13,7 +13,7 @@
 					starty: 1
 				},
 			 	{
-					clue: "Means of learning and hitting the doorbell twice",
+					clue: "means of learning and hitting the doorbell twice",
 					answer: "reading",
 					position: 7,
 					orientation: "across",
@@ -21,7 +21,7 @@
 					starty: 2
 				},
 				{
-					clue: "Type of nightclub and the hat of an Uber competitor",
+					clue: "type of nightclub and the hat of an Uber competitor",
 					answer: "cabaret",
 					position: 9,
 					orientation: "across",
@@ -77,8 +77,8 @@
 					starty: 6
 				},
 				{
-					clue: "moral obligation and excrament",
-					answer: "duty",
+					clue: "rugby player and being amazed by a warm beverage",
+					answer: "auty",
 					position: 19,
 					orientation: "across",
 					startx: 4,
@@ -133,7 +133,7 @@
 					starty: 10
 				},
 				{
-					clue: "the Mrs. and a couple of polinators",
+					clue: "the Mrs. and a couple of pollinators",
 					answer: "bibi",
 					position: 26,
 					orientation: "across",
@@ -189,7 +189,7 @@
 					starty: 1
 				},
 				{
-					clue: "desire to avoid the crowd and justaposing agriculture with soup and a lighter",
+					clue: "desire to avoid the crowd and juxtaposing agriculture with soup and a lighter",
 					answer: "agoraphobic",
 					position: 6,
 					orientation: "down",
@@ -197,7 +197,7 @@
 					starty: 1
 				},
 				{
-					clue: "computer company and that's all you get on this one",
+					clue: "friend of page up/down and computer company",
 					answer: "del",
 					position: 8,
 					orientation: "down",
@@ -237,7 +237,7 @@
 					starty: 7
 				},
 				{
-					clue: "popular sweepstakes and a fruit from Georgia",
+					clue: "popular sweepstakes and a fruit from GA",
 					answer: "pch",
 					position: 21,
 					orientation: "down",
